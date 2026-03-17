@@ -72,8 +72,8 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 ### Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglasbisppo&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=douglasbisppo&locale=pt_BR&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=douglasbisppo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=00FF41&title_color=00CC44&text_color=c9d1d9&ring_color=00AA33" height="150" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=douglasbisppo&locale=pt_BR&mode=daily&theme=dark&hide_border=true&border_radius=5&ring=00FF41&fire=00CC44&currStreakLabel=00FF41&sideLabels=00CC44&dates=888888" height="150" alt="streak" />
 </div>
 
 ---
@@ -89,5 +89,5 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=douglasbisppo&color=6A1B9A&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=douglasbisppo&color=00AA33&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
 </p>
