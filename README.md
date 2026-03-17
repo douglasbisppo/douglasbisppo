@@ -78,6 +78,16 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 
 ---
 
+### Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglasbisppo/douglasbisppo/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglasbisppo/douglasbisppo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/douglasbisppo/douglasbisppo/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=douglasbisppo&color=6A1B9A&style=flat-square&label=Visitas+ao+perfil" alt="profile views" />
 </p>
