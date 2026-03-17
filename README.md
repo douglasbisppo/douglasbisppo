@@ -63,9 +63,14 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 
 ### Projetos em Destaque
 
+<!-- PROJECTS:START -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [goip-conference](https://github.com/douglasbisppo/goip-conference) | Painel web para conferências em massa via GoIP + Asterisk — até 96 portas GSM simultâneas | Node.js · React · ARI · PJSIP |
+| [linkr-sms-link-tracker](https://github.com/douglasbisppo/linkr-sms-link-tracker) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | TypeScript · React |
+| [locamotos](https://github.com/douglasbisppo/locamotos) | Plataforma de aluguel e gestão de motos - LocaMotos | TypeScript · React |
+| [goip-auto-call](https://github.com/douglasbisppo/goip-auto-call) | Painel web para gerenciamento de chamadas e conferências em massa via GoIP + ... | TypeScript · React |
+| [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | TypeScript · React |
+<!-- PROJECTS:END -->
 
 ---
 
