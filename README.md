@@ -66,11 +66,10 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | GoIP Auto Call V2 — Painel de gerenciamento de chamadas VoIP com backend Pyth... | TypeScript · React |
-| [linkr-sms-link-tracker](https://github.com/douglasbisppo/linkr-sms-link-tracker) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | TypeScript · React |
-| [locamotos](https://github.com/douglasbisppo/locamotos) | Plataforma de aluguel e gestão de motos - LocaMotos | TypeScript · React |
-| [goip-auto-call](https://github.com/douglasbisppo/goip-auto-call) | Painel web para gerenciamento de chamadas e conferências em massa via GoIP + ... | TypeScript · React |
 | [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | TypeScript · React |
+| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Plataforma de aluguel e gestão de motos - LocaMotos | TypeScript · React |
+| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | GoIP Auto Call V2 — Painel de gerenciamento de chamadas VoIP com backend Pyth... | TypeScript · React |
+| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | TypeScript · React |
 <!-- PROJECTS:END -->
 
 ---
