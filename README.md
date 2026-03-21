@@ -66,11 +66,11 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Painel de treinamento Roblox Studio com assistente IA integrado | TypeScript · React |
-| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Plataforma de aluguel e gestão de motos - LocaMotos | TypeScript · React |
-| [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | TypeScript · React |
-| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | GoIP Auto Call V2 — Painel de gerenciamento de chamadas VoIP com backend Pyth... | TypeScript · React |
-| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | TypeScript · React |
+| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | Painel de gerenciamento de chamadas VoIP — 96 portas GoIP + Asterisk ARI | Python · FastAPI · React · TypeScript |
+| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | SMS Gateway Pro — Envio em massa via SMPP, tracking de links e analytics | Node.js · React · PostgreSQL · Redis |
+| [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp & RCS com pagamento PIX | React · TypeScript · Supabase |
+| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais | React · TypeScript · Supabase |
+| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA integrado | React · Node.js · Anthropic AI |
 <!-- PROJECTS:END -->
 
 ---
