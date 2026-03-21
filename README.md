@@ -66,6 +66,7 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot automatizado de trading com IA para Solana (Raydium +... | Python |
 | [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | GoIP Auto Call V2 — Painel de gerenciamento de chamadas VoIP com backend Pyth... | — |
 | [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | — |
 | [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | — |
