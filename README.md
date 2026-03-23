@@ -2,7 +2,7 @@
 
 # Douglas Bispo (GiGa)
 
-**Não é falta de Café nem de Tequila... Se der certo deu, se não Fxxx _l_**
+**Não é falta de Café nem de Tequila... Se der certo deu, se não...**
 
 Sei que nada sei fazer...
 
