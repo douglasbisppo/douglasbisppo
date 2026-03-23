@@ -22,7 +22,7 @@ Sei que nada sei fazer...
 
 ### Quem sou eu
 
-<img src="terminal.gif" alt="Terminal GiGa" width="720" />
+<img src="terminal.gif" alt="Terminal GiGa" width="100%" />
 
 </div>
 
