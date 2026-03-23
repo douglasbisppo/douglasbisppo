@@ -90,26 +90,15 @@ Do Asterisk ao Solana — se envolve automação, eu construo.
 ### Projetos
 
 <!-- PROJECTS:START -->
-<<<<<<< HEAD
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [beia-brain](https://github.com/douglasbisppo/beia-brain) | Unified open-source AI inference system. Routes requests to specialized model... | JavaScript · Node.js |
 | [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot automatizado de trading com IA para Solana (Raydium +... | Python |
 | [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | GoIP Auto Call V2 — Painel de gerenciamento de chamadas VoIP com backend Pyth... | — |
 | [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | — |
 | [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | — |
 | [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Plataforma de aluguel e gestão de motos - LocaMotos | — |
 | [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Painel de treinamento Roblox Studio com assistente IA integrado | — |
-=======
-| Projeto | O que faz | Tecnologias |
-|:---|:---|:---|
-| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | Painel VoIP com grid de 96 portas GoIP, discagem em massa e conferências automáticas via Asterisk ARI | Python · FastAPI · React · Asterisk |
-| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Gateway SMS profissional com envio em massa via SMPP, encurtador com tracking por contato e analytics GeoIP | Node.js · Express · PostgreSQL · Redis |
-| [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp e RCS com créditos PIX e programa de indicação | React · TypeScript · Supabase |
-| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Bot de trading automatizado para Solana com 7 métodos de snipe, dashboard web e controle via Telegram | Python · Solana · Raydium |
-| [beia-brain](https://github.com/douglasbisppo/beia-brain) | Sistema unificado de inferência AI com roteamento para modelos especializados (Llama, Qwen, DeepSeek) via API única | Python · LLMs · API REST |
-| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais, pagamentos e WhatsApp bot | React · TypeScript · Supabase |
-| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA especializado em Lua/Luau | React · Node.js · Anthropic AI |
->>>>>>> d50a4d4 (Redesign: perfil completo com todos os projetos atuais)
 <!-- PROJECTS:END -->
 
 > Os repositórios públicos são vitrines dos projetos. O código-fonte é mantido em repositórios privados.
