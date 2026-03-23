@@ -23,21 +23,7 @@ Do Asterisk ao Solana — se envolve automação, eu construo.
 
 ### Quem sou eu
 
-```
-                          GiGa                            
-              📍 Entre um ssh e outro                      
-                                                          
-  > Faço telefones tocarem em massa (a operadora que lute)
-  > Codo full stack de dia e debugo de madrugada          
-  > Administro servidores que nem a NASA sabe que existem  
-  > Hospedo meus próprios modelos de IA porque confiar    
-    em API dos outros é arriscado                         
-  > Compro tokens antes do hype e vendo antes do dump ☕   
-                                                          
-  Filosofia: Se dá pra automatizar, eu automatizo.        
-  Se não dá, eu automatizo do mesmo jeito.                
-  Se der erro, a culpa é do cache.                        
-```
+<img src="terminal.gif" alt="Terminal GiGa" width="720" />
 
 </div>
 
