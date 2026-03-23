@@ -1,69 +1,96 @@
-<h1 align="center">Douglas Bispo</h1>
-
-<p align="center">
-  <b>VoIP Engineer · Asterisk · GoIP · Full Stack Developer</b><br/>
-  Especialista em telefonia GSM, automação de chamadas em massa e painéis de controle de comunicação.
-</p>
-
 <div align="center">
-  <a href="mailto:gigaplaysolucoes@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/5521994800366">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="whatsapp" />
-  </a>
+
+# Douglas Bispo
+
+**VoIP Engineer · Full Stack Developer · AI & Crypto Builder**
+
+Construo sistemas de comunicação em massa, plataformas SaaS e bots de trading.
+Do Asterisk ao Solana — se envolve automação, eu construo.
+
+<a href="mailto:gigaplaysolucoes@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" />
+</a>
+&nbsp;
+<a href="https://wa.me/5521994800366">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="28" />
+</a>
+
 </div>
 
 ---
 
-### Sobre mim
+### Quem sou eu
 
-```yaml
-nome:     Douglas Bispo
-foco:     VoIP Engineering · Asterisk PBX · GoIP GSM · Full Stack
-stack:    Asterisk · PJSIP · ARI · Node.js · React · Linux
-infra:    VPS · Nginx · PM2 · SIP · GSM Gateways
-projetos: Sistemas de discagem em massa, conferências automáticas,
-          painéis de monitoramento de chamadas em tempo real
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   Douglas Bispo aka GiGa                                        │
+│   Rio de Janeiro, Brasil                                        │
+│                                                                  │
+│   > Engenheiro VoIP com foco em GoIP + Asterisk                 │
+│   > Full Stack Developer (React, Node, Python, FastAPI)         │
+│   > Infraestrutura Linux, servidores dedicados, VPS             │
+│   > AI — construindo plataforma de inferência com modelos OSS   │
+│   > Crypto — bots de trading automatizado em Solana             │
+│                                                                  │
+│   Filosofia: Se dá pra automatizar, eu automatizo.              │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### Stack Principal
+### O que eu faço
+
+| Área | O que construo |
+|:---|:---|
+| **Telefonia VoIP** | Painéis de discagem em massa, conferências automáticas, integração GoIP + Asterisk ARI para até 96 portas simultâneas |
+| **SMS em escala** | Gateway SMS via SMPP, campanhas em massa, tracking de links com analytics e GeoIP |
+| **Plataformas SaaS** | Validação de números WhatsApp/RCS, sistemas de créditos com PIX, programas de indicação |
+| **AI & LLMs** | Plataforma unificada de inferência com modelos open-source (Llama, Qwen, DeepSeek) via API própria |
+| **Crypto Trading** | Sniper bot para Solana (Raydium + pump.fun) com dashboard web e controle via Telegram |
+| **Gestão** | Sistema de locação de motos com contratos digitais, pagamentos e WhatsApp bot |
+
+---
+
+### Stack
 
 <div align="left">
 
-**Telefonia & VoIP**
+**Linguagens & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,fastapi,nodejs,express" height="40"/>
+
+**Banco de Dados & Cache**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase" height="40"/>
+
+**Infraestrutura & DevOps**
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,docker,git,github" height="40"/>
+
+**Telefonia & Comunicação**
 
 <img src="https://img.shields.io/badge/Asterisk-F67608?style=for-the-badge&logo=asterisk&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/SIP%20%2F%20PJSIP-0052CC?style=for-the-badge&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/GoIP%20GSM-2E7D32?style=for-the-badge&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/ARI%20WebSocket-6A1B9A?style=for-the-badge&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PJSIP-0052CC?style=for-the-badge&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/GoIP_GSM-2E7D32?style=for-the-badge&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/ARI_WebSocket-6A1B9A?style=for-the-badge&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SMPP-E65100?style=for-the-badge&logoColor=white" height="28"/>
 
-**Backend & Frontend**
+**AI & Blockchain**
 
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-<img src="https://skillicons.dev/icons?i=ts" height="40"/>
-<img src="https://skillicons.dev/icons?i=react" height="40"/>
-<img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-<img src="https://skillicons.dev/icons?i=py" height="40"/>
-
-**Infraestrutura**
-
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
-<img src="https://skillicons.dev/icons?i=nginx" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="28"/>
 
 </div>
 
 ---
 
-### Projetos em Destaque
+### Projetos
 
 <!-- PROJECTS:START -->
+<<<<<<< HEAD
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot automatizado de trading com IA para Solana (Raydium +... | Python |
@@ -72,7 +99,20 @@ projetos: Sistemas de discagem em massa, conferências automáticas,
 | [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | — |
 | [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Plataforma de aluguel e gestão de motos - LocaMotos | — |
 | [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Painel de treinamento Roblox Studio com assistente IA integrado | — |
+=======
+| Projeto | O que faz | Tecnologias |
+|:---|:---|:---|
+| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | Painel VoIP com grid de 96 portas GoIP, discagem em massa e conferências automáticas via Asterisk ARI | Python · FastAPI · React · Asterisk |
+| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Gateway SMS profissional com envio em massa via SMPP, encurtador com tracking por contato e analytics GeoIP | Node.js · Express · PostgreSQL · Redis |
+| [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp e RCS com créditos PIX e programa de indicação | React · TypeScript · Supabase |
+| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Bot de trading automatizado para Solana com 7 métodos de snipe, dashboard web e controle via Telegram | Python · Solana · Raydium |
+| [beia-brain](https://github.com/douglasbisppo/beia-brain) | Sistema unificado de inferência AI com roteamento para modelos especializados (Llama, Qwen, DeepSeek) via API única | Python · LLMs · API REST |
+| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais, pagamentos e WhatsApp bot | React · TypeScript · Supabase |
+| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA especializado em Lua/Luau | React · Node.js · Anthropic AI |
+>>>>>>> d50a4d4 (Redesign: perfil completo com todos os projetos atuais)
 <!-- PROJECTS:END -->
+
+> Os repositórios públicos são vitrines dos projetos. O código-fonte é mantido em repositórios privados.
 
 ---
 
