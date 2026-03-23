@@ -24,16 +24,17 @@ Do Asterisk ao Solana — se envolve automação, eu construo.
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   Douglas Bispo aka GiGa                                        │
-│   Rio de Janeiro, Brasil                                        │
+│   GiGa                                                          │
+│   📍 Algum servidor Linux que ainda não caiu                     │
 │                                                                  │
-│   > Engenheiro VoIP com foco em GoIP + Asterisk                 │
-│   > Full Stack Developer (React, Node, Python, FastAPI)         │
-│   > Infraestrutura Linux, servidores dedicados, VPS             │
-│   > AI — construindo plataforma de inferência com modelos OSS   │
-│   > Crypto — bots de trading automatizado em Solana             │
+│   > Faço telefones tocarem em massa (GoIP + Asterisk)           │
+│   > Codo em React, Node, Python e FastAPI sem pedir permissão   │
+│   > Mantenho servidores que ninguém sabe que existem             │
+│   > Ensino IA a pensar com modelos que eu mesmo hospedo          │
+│   > Snipo tokens antes do café esfriar ☕                        │
 │                                                                  │
 │   Filosofia: Se dá pra automatizar, eu automatizo.              │
+│   Se não dá, eu automatizo do mesmo jeito.                      │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
