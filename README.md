@@ -78,7 +78,6 @@ Sei que nada sei fazer...
 | [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | SMS Gateway Pro — Envio em massa via SMPP, tracking de links com analytics GeoIP | Node.js · Express · React · PostgreSQL · Redis |
 | [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp & RCS com créditos PIX | React · TypeScript · Supabase · Tailwind CSS |
 | [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot de trading automatizado com 7 métodos de snipe + dashboard web | Python · Solana · Raydium · Telegram Bot |
-| [beia-brain](https://github.com/douglasbisppo/beia-brain) | BEIA Brain — Sistema unificado de inferência AI com roteamento para modelos especializa... | Python · FastAPI · LLaMA · Qwen · DeepSeek |
 | [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais e pagamentos | React · TypeScript · Supabase · Mercado Pago |
 | [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA integrado (Lua/Luau) | React · Node.js · TypeScript · Anthropic AI |
 <!-- PROJECTS:END -->
