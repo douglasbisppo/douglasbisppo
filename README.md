@@ -6,7 +6,7 @@
 
 Sei que nada sei fazer...
 
-
+<img src="mickey.gif" alt="surprise" width="300" />
 
 </div>
 
