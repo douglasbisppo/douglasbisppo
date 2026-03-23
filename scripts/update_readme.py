@@ -11,15 +11,27 @@ import urllib.request
 USERNAME = "douglasbisppo"
 SKIP_REPOS = {USERNAME}  # ignora o repo do perfil
 
-LANGUAGE_STACKS = {
-    "TypeScript": "TypeScript · React",
-    "JavaScript": "JavaScript · Node.js",
-    "Python": "Python",
-    "Shell": "Shell · Linux",
-    "HTML": "HTML · CSS",
-    "PHP": "PHP",
-    "C": "C",
+# Stack manual por repositório (os repos públicos são vitrines sem código)
+REPO_STACKS = {
+    "goip-auto-call-2": "Python · FastAPI · React · TypeScript · Asterisk",
+    "linkr-sms-link-tracker-v2": "Node.js · Express · React · PostgreSQL · Redis",
+    "validador": "React · TypeScript · Supabase · Tailwind CSS",
+    "solana-sniper-bot": "Python · Solana · Raydium · Telegram Bot",
+    "beia-brain": "Python · FastAPI · LLaMA · Qwen · DeepSeek",
+    "locamotos-v2": "React · TypeScript · Supabase · Mercado Pago",
+    "giga-studio-panel": "React · Node.js · TypeScript · Anthropic AI",
 }
+
+# Ordem de exibição preferida (do mais relevante para o menos)
+REPO_ORDER = [
+    "goip-auto-call-2",
+    "linkr-sms-link-tracker-v2",
+    "validador",
+    "solana-sniper-bot",
+    "beia-brain",
+    "locamotos-v2",
+    "giga-studio-panel",
+]
 
 
 def fetch_repos():
@@ -34,26 +46,39 @@ def fetch_repos():
 
 
 def build_table(repos):
-    rows = []
+    repo_map = {}
     for r in repos:
         name = r["name"]
-        if name in SKIP_REPOS or r.get("fork") or r.get("archived"):
+        if name in SKIP_REPOS or r.get("fork") or r.get("archived") or r.get("private"):
             continue
-        desc = r.get("description") or "—"
-        # Remove pipes que quebram tabelas markdown
-        desc = desc.replace("|", "-")
-        # Trunca descrições longas
-        if len(desc) > 80:
-            desc = desc[:77] + "..."
-        lang = r.get("language") or "—"
-        stack = LANGUAGE_STACKS.get(lang, lang)
-        url = r["html_url"]
-        rows.append(f"| [{name}]({url}) | {desc} | {stack} |")
+        repo_map[name] = r
+
+    rows = []
+    # Primeiro os repos na ordem preferida
+    for name in REPO_ORDER:
+        if name in repo_map:
+            r = repo_map.pop(name)
+            rows.append(_format_row(r))
+
+    # Depois qualquer repo público novo que não esteja na lista
+    for name, r in sorted(repo_map.items()):
+        rows.append(_format_row(r))
 
     if not rows:
         return "| — | Nenhum projeto encontrado | — |"
 
     return "\n".join(rows)
+
+
+def _format_row(r):
+    name = r["name"]
+    desc = r.get("description") or "—"
+    desc = desc.replace("|", "-")
+    if len(desc) > 90:
+        desc = desc[:87] + "..."
+    stack = REPO_STACKS.get(name, r.get("language") or "—")
+    url = r["html_url"]
+    return f"| [{name}]({url}) | {desc} | {stack} |"
 
 
 def update_readme(table_content):
