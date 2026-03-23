@@ -93,13 +93,13 @@ Do Asterisk ao Solana — se envolve automação, eu construo.
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [beia-brain](https://github.com/douglasbisppo/beia-brain) | Unified open-source AI inference system. Routes requests to specialized model... | JavaScript · Node.js |
-| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot automatizado de trading com IA para Solana (Raydium +... | Python |
-| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | GoIP Auto Call V2 — Painel de gerenciamento de chamadas VoIP com backend Pyth... | — |
-| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | Linkr - Sistema profissional de gateway SMS com painel de gerenciamento, envi... | — |
-| [validador](https://github.com/douglasbisppo/validador) | Plataforma de Validação de Números - WhatsApp & RCS | — |
-| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Plataforma de aluguel e gestão de motos - LocaMotos | — |
-| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Painel de treinamento Roblox Studio com assistente IA integrado | — |
+| [beia-brain](https://github.com/douglasbisppo/beia-brain) | BEIA Brain — Sistema unificado de inferência AI com roteamento para modelos e... | JavaScript · Node.js |
+| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA integrado (Lua/Luau) | — |
+| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot de trading automatizado com 7 métodos de snipe + dash... | Python |
+| [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp & RCS com créditos PIX | — |
+| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais e pagamentos | — |
+| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | Painel VoIP — Grid de 96 portas GoIP + Asterisk ARI, discagem em massa e conf... | — |
+| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | SMS Gateway Pro — Envio em massa via SMPP, tracking de links com analytics GeoIP | — |
 <!-- PROJECTS:END -->
 
 > Os repositórios públicos são vitrines dos projetos. O código-fonte é mantido em repositórios privados.
