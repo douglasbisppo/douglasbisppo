@@ -19,25 +19,26 @@ Do Asterisk ao Solana — se envolve automação, eu construo.
 
 ---
 
+<div align="center">
+
 ### Quem sou eu
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   GiGa                                                          │
-│   📍 Algum servidor Linux que ainda não caiu                     │
-│                                                                  │
-│   > Faço telefones tocarem em massa (GoIP + Asterisk)           │
-│   > Codo em React, Node, Python e FastAPI sem pedir permissão   │
-│   > Mantenho servidores que ninguém sabe que existem             │
-│   > Ensino IA a pensar com modelos que eu mesmo hospedo          │
-│   > Snipo tokens antes do café esfriar ☕                        │
-│                                                                  │
-│   Filosofia: Se dá pra automatizar, eu automatizo.              │
-│   Se não dá, eu automatizo do mesmo jeito.                      │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+                         GiGa                          
+          📍 Algum servidor Linux que ainda não caiu     
+                                                        
+    > Faço telefones tocarem em massa (GoIP + Asterisk)  
+    > Codo em React, Node, Python e FastAPI sem pedir    
+      permissão                                          
+    > Mantenho servidores que ninguém sabe que existem    
+    > Ensino IA a pensar com modelos que eu mesmo hospedo 
+    > Snipo tokens antes do café esfriar ☕               
+                                                        
+    Filosofia: Se dá pra automatizar, eu automatizo.     
+    Se não dá, eu automatizo do mesmo jeito.             
 ```
+
+</div>
 
 ---
 
@@ -93,13 +94,13 @@ Do Asterisk ao Solana — se envolve automação, eu construo.
 <!-- PROJECTS:START -->
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [beia-brain](https://github.com/douglasbisppo/beia-brain) | BEIA Brain — Sistema unificado de inferência AI com roteamento para modelos e... | JavaScript · Node.js |
-| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA integrado (Lua/Luau) | — |
-| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot de trading automatizado com 7 métodos de snipe + dash... | Python |
-| [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp & RCS com créditos PIX | — |
-| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais e pagamentos | — |
-| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | Painel VoIP — Grid de 96 portas GoIP + Asterisk ARI, discagem em massa e conf... | — |
-| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | SMS Gateway Pro — Envio em massa via SMPP, tracking de links com analytics GeoIP | — |
+| [goip-auto-call-2](https://github.com/douglasbisppo/goip-auto-call-2) | Painel VoIP — Grid de 96 portas GoIP + Asterisk ARI, discagem em massa e conferências | Python · FastAPI · React · TypeScript · Asterisk |
+| [linkr-sms-link-tracker-v2](https://github.com/douglasbisppo/linkr-sms-link-tracker-v2) | SMS Gateway Pro — Envio em massa via SMPP, tracking de links com analytics GeoIP | Node.js · Express · React · PostgreSQL · Redis |
+| [validador](https://github.com/douglasbisppo/validador) | Plataforma SaaS de validação de números WhatsApp & RCS com créditos PIX | React · TypeScript · Supabase · Tailwind CSS |
+| [solana-sniper-bot](https://github.com/douglasbisppo/solana-sniper-bot) | Solana Sniper Bot — Bot de trading automatizado com 7 métodos de snipe + dashboard | Python · Solana · Raydium · Telegram Bot |
+| [beia-brain](https://github.com/douglasbisppo/beia-brain) | BEIA Brain — Sistema unificado de inferência AI com roteamento para modelos especializados | Python · FastAPI · LLaMA · Qwen · DeepSeek |
+| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais e pagamentos | React · TypeScript · Supabase · Mercado Pago |
+| [giga-studio-panel](https://github.com/douglasbisppo/giga-studio-panel) | Hub de treinamento Roblox Studio com assistente IA integrado (Lua/Luau) | React · Node.js · TypeScript · Anthropic AI |
 <!-- PROJECTS:END -->
 
 > Os repositórios públicos são vitrines dos projetos. O código-fonte é mantido em repositórios privados.
