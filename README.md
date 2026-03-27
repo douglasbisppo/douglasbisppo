@@ -75,6 +75,9 @@ Sei que nada sei fazer...
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [beia-brain](https://github.com/douglasbisppo/beia-brain) | BEIA Brain — Sistema unificado de inferência AI com roteamento para modelos especializa... | Python · FastAPI · LLaMA · Qwen · DeepSeek |
+| [locamotos-v2](https://github.com/douglasbisppo/locamotos-v2) | Sistema de gestão para locação de motos com contratos digitais e pagamentos | React · TypeScript · Supabase · Mercado Pago |
+| [locamotos-src](https://github.com/douglasbisppo/locamotos-src) | Plataforma de aluguel e gestão de motos - LocaMotos (código-fonte) | TypeScript |
+| [validador-src](https://github.com/douglasbisppo/validador-src) | Plataforma de Validação de Números WhatsApp & RCS (código-fonte) | TypeScript |
 <!-- PROJECTS:END -->
 
 > Os repositórios públicos são vitrines dos projetos. O código-fonte é mantido em repositórios privados.
